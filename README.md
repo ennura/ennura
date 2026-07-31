@@ -1,6 +1,6 @@
-## Hi, I'm Naufal Syah Putra🎸
+# Hi, I'm Naufal Syah Putra🎸
 
-# 💫 About Me:
+## 💫 About Me:
 🌍 Trilingual learner who enjoys exploring languages and communication<br><br>💻 Interested in front-end development and interactive digital experiences<br><br>✨ Loves combining technology, design, and creativity into meaningful projects<br><br>📱 Experienced in creating posters, social media designs, and portfolio websites<br><br>🚀 Curious, detail-oriented, and always eager to learn new digital skills<br><br>💡 Passionate about turning ideas into visually engaging creations<br>
 
 
