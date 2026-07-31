@@ -1,14 +1,11 @@
-## Hi, I'm Naufal🎸
+## Hi, I'm Naufal Syah Putra🎸
 
-🎨 Creative Designer with a passion for elegant and aesthetic visuals<br>
-🌍 Bilingual learner who enjoys exploring languages and communication<br>
+🌍 Trilingual learner who enjoys exploring languages and communication<br>
 💻 Interested in front-end development and interactive digital experiences<br>
 ✨ Loves combining technology, design, and creativity into meaningful projects<br>
 📱 Experienced in creating posters, social media designs, and portfolio websites<br>
-🍷 Enjoys modern aesthetics such as maroon luxury, glassmorphism, and minimal layouts<br>
 🚀 Curious, detail-oriented, and always eager to learn new digital skills<br>
 💡 Passionate about turning ideas into visually engaging creations<br>
-🎥I make videos about code and design on [instagram](https://www.instagram.com/_ennfal/)
 
 
 # 💻 Tech Stack:
